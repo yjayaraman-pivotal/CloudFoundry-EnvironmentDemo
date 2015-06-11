@@ -4,4 +4,4 @@ applications:
   memory: 512M
   instances: 1
   host: cf-cd-yjayaraman
-  path: package/cf-intro-environment-demo-0.0.1-SNAPSHOT.war
+  path: cf-intro-environment-demo-0.0.1-SNAPSHOT.war

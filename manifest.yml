@@ -1,0 +1,7 @@
+---
+applications:
+- name: cf-cd-demo
+  memory: 512M
+  instances: 1
+  host: cf-cd-yjayaraman
+  path: package/spring--0.0.1-SNAPSHOT.war
